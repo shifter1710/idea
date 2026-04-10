@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+
+legacy/1986-ussr/pdf/*.pdf
+legacy/1986-ussr/db/*.sqlite
+legacy/1986-ussr/db/*.sqlite-*
+legacy/1986-ussr/db/*.bak
+legacy/1986-ussr/images/pdf-pages/
