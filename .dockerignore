@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.git
+.gitignore
+pdf-pages/
+*.sqlite
+*.sqlite.bak
+*.pdf
+!world_athletics_scoring_tables_2025.pdf
+deploy/
