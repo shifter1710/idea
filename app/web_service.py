@@ -88,7 +88,7 @@ class WebScoringService:
         ),
         CombinedEventSpec(
             key="heptathlon_short_track_men",
-            title_ru="Семиборье (короткая дорожка)",
+            title_ru="Семиборье (в помещении)",
             sex="male",
             discipline_code="Hept. sh",
             is_short_track=True,
@@ -104,7 +104,7 @@ class WebScoringService:
         ),
         CombinedEventSpec(
             key="pentathlon_short_track_women",
-            title_ru="Пятиборье (короткая дорожка)",
+            title_ru="Пятиборье (в помещении)",
             sex="female",
             discipline_code="Pent. sh",
             is_short_track=True,
